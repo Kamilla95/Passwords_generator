@@ -36,17 +36,3 @@ def generate_password(length, chars):
 
 for _ in range(n):
     generate_password(length, chars)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
